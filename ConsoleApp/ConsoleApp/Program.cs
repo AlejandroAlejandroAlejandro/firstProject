@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+
         int numberOfStudents;
         bool successfulConversion;
         string userInput;        
@@ -24,6 +25,9 @@ class Program
         } while (!successfulConversion || numberOfStudents <= 0);
 
         Console.WriteLine($"There are {numberOfStudents} students in the class.");
+        Console.WriteLine("Press 'Enter' to exit...");
+        Console.ReadLine();
+
     }
 }
 
