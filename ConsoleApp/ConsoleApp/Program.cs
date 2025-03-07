@@ -23,7 +23,7 @@ class Program
 
         } while (!successfulConversion || numberOfStudents <= 0);
 
-        Console.WriteLine($"There are {numberOfStudents} in the class.");
+        Console.WriteLine($"There are {numberOfStudents} students in the class.");
     }
 }
 
