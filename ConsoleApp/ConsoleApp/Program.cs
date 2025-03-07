@@ -8,6 +8,7 @@ class Program
         bool successfulConversion;
         string userInput;
 
+        Console.Write("Enter number of students in class: ");
     }
 }
 
