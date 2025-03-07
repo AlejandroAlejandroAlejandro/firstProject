@@ -6,18 +6,20 @@ class Program
     {
         int numberOfStudents;
         bool successfulConversion;
-        string userInput;
-
-        Console.Write("Enter number of students in class: ");
+        string userInput;        
 
         do
         {
+
+            Console.Write("Enter number of students in class: ");
+
             userInput = Console.ReadLine();
             successfulConversion = int.TryParse(userInput, out numberOfStudents);
 
             if (!successfulConversion || numberOfStudents <= 0)
             {
                 Console.WriteLine("Invalid! Please try again.");
+
             }
 
         } while (!successfulConversion || numberOfStudents <= 0);

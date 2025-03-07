@@ -1,0 +1,15 @@
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/alejandroasido/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
