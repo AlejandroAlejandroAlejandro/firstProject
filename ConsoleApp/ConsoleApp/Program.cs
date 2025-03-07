@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, Alejandro!");
+        int numberOfStudents;
+        bool successfulConversion;
+        string userInput;
+
     }
 }
 
